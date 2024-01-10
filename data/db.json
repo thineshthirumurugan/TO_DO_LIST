@@ -1,0 +1,29 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Practice Coding"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Play Cricket"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Read about AI"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Samyutha"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "Sushanth"
+    }
+  ]
+}
